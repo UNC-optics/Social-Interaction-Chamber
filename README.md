@@ -60,7 +60,7 @@ GitHub repository: https://github.com/UNC-optics/Social-Interaction-Chamber
     ![3D Printed Casing](https://github.com/user-attachments/assets/c63ea85d-db89-451b-ad10-bc1a7e68651c)
     
 21. Place the external PCB case over the finalized PCB to protect the PCB and components.
-    ![PCB with Case](https://github.com/user-attachments/assets/2a1111d7-4de6-4b23-89be-299ad7393930)
+![PCB with Case](https://github.com/user-attachments/assets/2a1111d7-4de6-4b23-89be-299ad7393930)
 
 22. Fit the PCB around the acrylic walls with the diodes aligned with the 4 holes through each wall. Be sure to avoid dragging the diodes across the edge of the wall to prevent damage.
     
