@@ -1,11 +1,11 @@
 # Detailed Protocol: Social Interaction Chamber 
 
-See the “Detailed Protocol” tab in the “Materials List/Social Interaction Chamber Materials.xlsx spreadsheet for a sequential list of the required materials for the construction of the Social Interaction Chamber.
+See the “Detailed Protocol” tab in the *Materials List/Social Interaction Chamber Materials.xlsx* spreadsheet for a sequential list of the required materials for the construction of the Social Interaction Chamber.
 GitHub repository: https://github.com/UNC-optics/Social-Interaction-Chamber 
 
 # Construction of laser cut box
 
-1.	Use the "Hardware Manufacturing/Laser Cutting Files/Social Interaction Chamber Walls Laser Cut File.svg" to vector laser cut the structural panels of the Social Interaction Chamber.
+1.	Use the *Hardware Manufacturing/Laser Cutting Files/Social Interaction Chamber Walls Laser Cut File.svg* file to vector laser cut the structural panels of the Social Interaction Chamber.
    
 2.	Cut the partition and lid (black lines) out of 1/16in clear cast acrylic.
    ![Clear Laser Cut Pieces](https://github.com/user-attachments/assets/6a37a6c0-da75-4a4f-b60f-0c010265fa8a)
@@ -22,9 +22,9 @@ GitHub repository: https://github.com/UNC-optics/Social-Interaction-Chamber
 
 # PCB assembly
 
-7.	Use the “Hardware Manufacturing/PCB Fabrication and Assembly/PCB Fabrication Files Social Interaction Chamber.zip” folder provided in the GitHub to order the custom pre-assembled PCB from a manufacturing company (JLCPCB, HK, CN). The PCB should be prepared as a 1.6mm thick two-layer PCB, with no special instructions.
+7.	Use the *Hardware Manufacturing/PCB Fabrication and Assembly/PCB Fabrication Files Social Interaction Chamber.zip* folder provided in the GitHub to order the custom pre-assembled PCB from a manufacturing company (JLCPCB, HK, CN). The PCB should be prepared as a 1.6mm thick two-layer PCB, with no special instructions.
    
-8.	In the same order, use the “Hardware Manufacturing/PCB Fabrication and Assembly/PCB Assembly Files Social Interaction Chamber.zip” folder to request electronic component assembly services. Parts must be placed according to the Bill of Materials and Components Placement List as demonstrated in the assembly files.
+8.	In the same order, use the *Hardware Manufacturing/PCB Fabrication and Assembly/PCB Assembly Files Social Interaction Chamber.zip* folder to request electronic component assembly services. Parts must be placed according to the Bill of Materials and Components Placement List as demonstrated in the assembly files.
     
 9.	Following assembly, use a tampered cutter tool to detach the PCB board at the indicated joints to produce 2 L-shaped PCBs and one rectangular PCB.
    ![PCB PreCut](https://github.com/user-attachments/assets/68fa4855-61aa-4018-852d-9c0f7007131e)
@@ -32,7 +32,7 @@ GitHub repository: https://github.com/UNC-optics/Social-Interaction-Chamber
 10. Hand solder the 90-degree pins onto the rectangular PCB as shown.
     ![PCB PostCut](https://github.com/user-attachments/assets/8707419a-9551-4b26-9ecc-c180010a4cd7)
 
-11. Solder the base of the L-shaped PCBs to the other end of the 90-degree pins to hold them perpendicular to the rectangular PCB (Figure 2C). Use the width of the acrylic chamber as a sizing guide and ensure that the diodes of the L-shaped PCBs face inward toward one another with the flush side of the base PCB facing upward.
+11. Solder the base of the L-shaped PCBs to the other end of the 90-degree pins to hold them perpendicular to the rectangular PCB. Use the width of the acrylic chamber as a sizing guide and ensure that the diodes of the L-shaped PCBs face inward toward one another with the flush side of the base PCB facing upward.
     ![PCB Perpendicular](https://github.com/user-attachments/assets/6f875342-134d-4b68-8167-c98845003936)
 
 12. Use the tampered cutter tool to trim the excess wire from the 90-degree pins.
@@ -42,7 +42,7 @@ GitHub repository: https://github.com/UNC-optics/Social-Interaction-Chamber
 
 13. Plug in a USB-A to USB-C cable into the Seeeduino XIAO and a computer with Arduino IDE software (Version: 2.3.2). Install the Seeeduino library and drivers via the board manager (https://wiki.seeedstudio.com/Seeed_Arduino_Boards/).
     
-14. Open the “Microcontroller Programming Code/Programming_Code_Social_Interaction_Chamber.ino" file using the Arduino IDE software. Connect to the Seeeduino XIAO port and allow the device to sit freely without obstructions. Upload the programming code to the board.
+14. Open the *Microcontroller Programming Code/Programming_Code_Social_Interaction_Chamber.ino* file using the Arduino IDE software. Connect to the Seeeduino XIAO port and allow the device to sit freely without obstructions. Upload the programming code to the board.
   
 15. Open the serial monitor in the Arduino software. Obstruct the beam path with a solid object and ensure that Inside “I”, Outside “O”, and Near “N” outputs appear in the serial monitor along with binary data indicating beam break status (0 - no break, 1 - beam broken). Upon functionality confirmation, unplug the device.
     
@@ -55,7 +55,7 @@ GitHub repository: https://github.com/UNC-optics/Social-Interaction-Chamber
 18. On the other end of the black cable, use the wire stripper to remove ~50mm of the jacket and ~15mm of insulator from each internal conductor. The open wires will be secured into the ANY-maze digital interface terminals in the experimental protocol.
 
 # 3D printed case and waterproofing
-19. 3D print the PCB case and diode sleeves provided in the GitHub as .step files using white PLA filament with 0.2mm resolution.
+19. 3D print the PCB case and diode sleeves provided in the *Hardware Manufacturing/3D Printed Parts* folder using white PLA filament with 0.2mm resolution.
 20. When the print is complete, use tweezers to remove internal supports from the diode sleeves and the PCB case.
     ![3D Printed Casing](https://github.com/user-attachments/assets/c63ea85d-db89-451b-ad10-bc1a7e68651c)
     
