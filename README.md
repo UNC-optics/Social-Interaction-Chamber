@@ -49,6 +49,7 @@ GitHub repository: https://github.com/UNC-optics/Social-Interaction-Chamber
 16. Use wire strippers to remove ~20mm of the outer jacket from one end of the black cable and expose the 4 internal conductors. Then strip ~10 mm of insulator from each of the individual wires to expose the copper core of all internal conductors.
     
 17. Thread heat shrink over each of the 4 internal conductors. Hand solder the wires on one side of the cable to each of the metal pins of the 4-pin female socket header as shown in Figure 2B. Pull the heat shrink over exposed wire surfaces and melt the material with a soldering iron to enclose the soldered junctions.
+    
     ![Cable Pinout](https://github.com/user-attachments/assets/de594cb1-ff33-4ce7-89c0-413638bbd0cf)
 
 18. On the other end of the black cable, use the wire stripper to remove ~50mm of the jacket and ~15mm of insulator from each internal conductor. The open wires will be secured into the ANY-maze digital interface terminals in the experimental protocol.
@@ -62,6 +63,7 @@ GitHub repository: https://github.com/UNC-optics/Social-Interaction-Chamber
     ![PCB with Case](https://github.com/user-attachments/assets/2a1111d7-4de6-4b23-89be-299ad7393930)
 
 22. Fit the PCB around the acrylic walls with the diodes aligned with the 4 holes through each wall. Be sure to avoid dragging the diodes across the edge of the wall to prevent damage.
+    
     ![PCB Placed Around Chamber](https://github.com/user-attachments/assets/dac081dc-cd19-4ac8-ac1d-ff1d14faae1b)
 
 23. Super glue the 3D printed inner diode sleeves to the internal wall of the chamber.
@@ -70,6 +72,7 @@ GitHub repository: https://github.com/UNC-optics/Social-Interaction-Chamber
 24. With a 1:1 ratio, mix 20mL of 2-part epoxy. If a 1:1 ratio is not maintained, the epoxy will not fully cure.
 25. Use a cotton swab to apply the mixed epoxy into the space between the PCB and the external casing, as well as along the bottom edge of the chamber and PCB. Be generous along this surface and over the PCB, as it will waterproof the chamber to prevent potential damage to the PCB caused by mouse urine.
 26. While the epoxy is still wet, place the partition over the open face of the chamber. You may also apply epoxy at the top of the side walls to secure the partition in place.
+
     ![Partition Placement](https://github.com/user-attachments/assets/27d2ef60-740d-4079-a9a5-0f123fb5614c)
 
 27. Place the outer sleeves over the protruding PCB arms and use super glue to secure the sleeves to the outside of the partition.
