@@ -1,6 +1,6 @@
 # Detailed Protocol: Social Interaction Chamber 
 
-See the “Detailed Protocol” tab in the *Materials List/Social Interaction Chamber Materials.xlsx* spreadsheet for a sequential list of the required materials for the construction of the Social Interaction Chamber.
+See the *Detailed Protocol* tab in the *Materials List/Social Interaction Chamber Materials.xlsx* spreadsheet for a sequential list of the required materials for the construction of the Social Interaction Chamber.
 GitHub repository: https://github.com/UNC-optics/Social-Interaction-Chamber 
 
 # Construction of laser cut box
