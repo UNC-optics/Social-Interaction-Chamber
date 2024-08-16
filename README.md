@@ -32,10 +32,11 @@ GitHub repository: https://github.com/UNC-optics/Social-Interaction-Chamber
 10.	Hand solder the 90-degree pins onto the rectangular PCB as shown.
 ![PCB PostCut](https://github.com/user-attachments/assets/8707419a-9551-4b26-9ecc-c180010a4cd7)
 
-11.	Solder the base of the L-shaped PCBs to the other end of the 90-degree pins to hold them perpendicular to the rectangular PCB (Figure 2C). Use the width of the acrylic chamber as a sizing guide and ensure that the diodes of the L-shaped PCBs face inward toward one another with the flush side of the base PCB facing upward. 
+11.	Solder the base of the L-shaped PCBs to the other end of the 90-degree pins to hold them perpendicular to the rectangular PCB (Figure 2C). Use the width of the acrylic chamber as a sizing guide and ensure that the diodes of the L-shaped PCBs face inward toward one another with the flush side of the base PCB facing upward.
+
 ![PCB Perpendicular](https://github.com/user-attachments/assets/6f875342-134d-4b68-8167-c98845003936)
 
-12.	Use the tampered cutter tool to trim the excess wire from the 90-degree pins.
+13.	Use the tampered cutter tool to trim the excess wire from the 90-degree pins.
 
 
 # PCB testing and cable construction
