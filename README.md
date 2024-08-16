@@ -5,7 +5,7 @@ GitHub repository: https://github.com/UNC-optics/Social-Interaction-Chamber
 
 # Construction of laser cut box
 
-1.	Use the “Social Interaction Chamber Walls Laser Cut File.svg” in the GitHub to vector laser cut the structural panels of the Social Interaction Chamber.
+1.	Use the Hardware Manufacturing/Laser Cutting Files/Social Interaction Chamber Walls Laser Cut File.svg in the GitHub to vector laser cut the structural panels of the Social Interaction Chamber.
    
 2.	Cut the partition and lid (black lines) out of 1/16in clear cast acrylic.
    ![Clear Laser Cut Pieces](https://github.com/user-attachments/assets/6a37a6c0-da75-4a4f-b60f-0c010265fa8a)
@@ -72,12 +72,13 @@ GitHub repository: https://github.com/UNC-optics/Social-Interaction-Chamber
 24.	With a 1:1 ratio, mix 20mL of 2-part epoxy. If a 1:1 ratio is not maintained, the epoxy will not fully cure.
 25.	Use a cotton swab to apply the mixed epoxy into the space between the PCB and the external casing, as well as along the bottom edge of the chamber and PCB. Be generous along this surface and over the PCB, as it will waterproof the chamber to prevent potential damage to the PCB caused by mouse urine.
 26.	While the epoxy is still wet, place the partition over the open face of the chamber. You may also apply epoxy at the top of the side walls to secure the partition in place.
+
 ![Partition Placement](https://github.com/user-attachments/assets/27d2ef60-740d-4079-a9a5-0f123fb5614c)
 
-27.	Place the outer sleeves over the protruding PCB arms and use super glue to secure the sleeves to the outside of the partition.
+28.	Place the outer sleeves over the protruding PCB arms and use super glue to secure the sleeves to the outside of the partition.
 ![Outer Sleeve Placement](https://github.com/user-attachments/assets/723e89b2-ced5-4816-965e-b7e8508a4e04)
 
-28.	Allow the chamber to cure for at least an hour before testing. 
+29.	Allow the chamber to cure for at least an hour before testing. 
 
 # ANY-maze integration
 
