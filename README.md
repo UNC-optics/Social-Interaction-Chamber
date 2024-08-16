@@ -5,7 +5,7 @@ GitHub repository: https://github.com/UNC-optics/Social-Interaction-Chamber
 
 # Construction of laser cut box
 
-1.	Use the Hardware Manufacturing/Laser Cutting Files/Social Interaction Chamber Walls Laser Cut File.svg in the GitHub to vector laser cut the structural panels of the Social Interaction Chamber.
+1.	Use the Hardware Manufacturing/Laser Cutting Files/Social Interaction Chamber Walls Laser Cut File.svg to vector laser cut the structural panels of the Social Interaction Chamber.
    
 2.	Cut the partition and lid (black lines) out of 1/16in clear cast acrylic.
    ![Clear Laser Cut Pieces](https://github.com/user-attachments/assets/6a37a6c0-da75-4a4f-b60f-0c010265fa8a)
