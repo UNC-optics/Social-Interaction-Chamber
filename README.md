@@ -1,4 +1,6 @@
 # Social Interaction Chamber
-All resources used in the construction of the automated social interaction chamber for studying social fear learning in mice 
+The social interaction chamber is an open-source automated system for studying social fear learning in mice. 
+
+Here you will find all of the materials and resources required for the construction protocol. 
 
 
